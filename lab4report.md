@@ -8,7 +8,7 @@
 ## 2.Clone your fork of the repository from your Github account (using the SSH URL)
 ![image](./Step5.png)
 ### Key pressed: 
-`git clone git@github.com:Boscoliu1994/lab7.git`
+`git clone git@github.com:Boscoliu1994/lab7.git -> <Enter>`
 
 ## 3.Run the tests, demonstrating that they fail
 ![image](./Step6.png)
@@ -32,5 +32,5 @@
 ****
 ![image](./Step9-2.png)
 ### Key pressed:
-`git commit ListExamples.java -> <Enter> -> i -> Lab7 test -> ese(keyboard) -> :wq -> <Enter>`
+`git commit ListExamples.java -> <Enter> -> i -> Lab7 test -> esc(keyboard) -> :wq -> <Enter>`
 and then `git push git@github.com:Boscoliu1994/lab7.git -> <Enter>`
