@@ -27,7 +27,7 @@
 ### Key pressed:
 `bash test.sh`
 
-##Commit and push the resulting change to your Github account (you can pick any commit message!)
+## 6.Commit and push the resulting change to your Github account (you can pick any commit message!)
 ![image](./Step9-1.png)
 ****
 ![image](./Step9-2.png)
