@@ -40,5 +40,7 @@ Press `"Shift + g"` to move the cursor to the last line of the current file - Pr
 ### Key pressed:
 `git commit ListExamples.java -> <Enter> -> i -> Lab7 test -> esc(keyboard) -> :wq -> <Enter>`
 and then `git push git@github.com:Boscoliu1994/lab7.git -> <Enter>`
+
 1.`git commit ListExamples.java`: Commit the file named "ListExamples.java" to my local repository.Press `<Enter>` to confirm submission.Press "i" to enter the insert mode and enter the message `"Lab7 test"` that I submitted.Press the `Esc` key on your keyboard to exit Insert mode and return to normal mode.Enter `:wq` in command line mode to save the file and exit the Vim editor.Press `<Enter>` to exit the Vim editor. 
+
 2. `git push git@github.com: Boscoliu1994 / lab7.git`: this is a git command is used to the change in the local warehouse push (submitted) to a remote warehouse.Press `<Enter>` to confirm push.
